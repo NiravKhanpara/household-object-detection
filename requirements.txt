@@ -1,0 +1,10 @@
+googledrivedownloader
+keras
+keras-retinanet
+matplotlib
+numpy
+opencv
+protobuf
+scipy
+streamlit
+tensorflow
